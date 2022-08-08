@@ -2,4 +2,4 @@ LupinIII	08-03-22
 plugins/LupinIII/plugininfo.txt	https://github.com/timothy-m-gillick/lackeyccg-lupiniii/raw/main/plugininfo.txt	232679
 plugins/LupinIII/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg-lupiniii/raw/main/cardback.jpg	418934
 CardGeneralURLs:		
-https://drive.google.com/drive/folders/15GYRm22u1We3z_fhhFmgs9zUSui1RGPV?usp=sharing
+https://drive.google.com/drive/folders/1jtkjWe8Bf0Gz4SKPLza1ddb4ySZxWvfL?usp=sharing
